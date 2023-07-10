@@ -143,3 +143,29 @@ header {
   margin: auto;
   margin-bottom: 35px;
 }
+
+/*Email-section*/
+.email-section {
+  width: 75.3%;
+  margin: auto;
+  background: url("Flower Asset/Rectangle\ 9.png");
+  background-size: cover;
+  background-repeat: none;
+  height: 200px;
+  margin-top: 100px;
+  text-align: center;
+  padding: 100px 0px 0px 0px;
+}
+
+.input-text {
+  height: 40px;
+  width: 420px;
+  border: 0;
+  border-radius: 4px;
+  padding: 0px 18px;
+  font-size: 12px;
+}
+
+.input-email {
+  margin-top: 30px;
+}
