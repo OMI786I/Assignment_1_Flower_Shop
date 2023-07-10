@@ -59,3 +59,35 @@ header {
   font-weight: 900;
   margin-bottom: 16px;
 }
+
+/*Featured flower section*/
+
+.featured-flowers {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  padding: 90px 0px 0px 0px;
+}
+
+.featured-flowers > h2 {
+  margin-bottom: 17px;
+}
+
+.featured-flowers > p {
+  margin-bottom: 33px;
+}
+.featured-flower-image {
+  height: 250px;
+  width: 170px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  padding: 55px 60px 0px 60px;
+  margin-bottom: 10px;
+}
+
+.featured-flower-holder {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
