@@ -235,3 +235,23 @@ footer > h1 {
   margin-bottom: 20px;
   text-align: center;
 }
+
+/*optional*/
+.optional-img {
+  height: 55px;
+  width: 55px;
+}
+
+.optional-container {
+  background-color: rgba(39, 39, 39, 0.05);
+  border-radius: 4px;
+  display: flex;
+  width: 74%;
+  margin: auto;
+  justify-content: center;
+  height: 200px;
+  align-items: center;
+  gap: 40px;
+  text-align: center;
+  margin-top: 80px;
+}
