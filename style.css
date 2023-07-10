@@ -24,6 +24,11 @@
   line-height: 1.5;
 }
 
+.title {
+  margin-bottom: 20px;
+  color: #272727;
+}
+
 /*Header*/
 header {
   background-color: rgba(229, 84, 115, 0.1);
@@ -111,4 +116,19 @@ header {
 .hotdeal-section-left {
   width: 490px;
   text-align: center;
+}
+
+/*Instagram section*/
+.instagram-flower-container {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  width: 80%;
+  margin: auto;
+}
+.instagram-image {
+}
+.instagram-image-each {
+  height: 260px;
+  width: 240px;
 }
