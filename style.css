@@ -106,6 +106,7 @@ header {
   justify-content: center;
   align-items: center;
   padding: 50px 150px;
+  margin-top: 100px;
 }
 
 .hotdeal-img {
@@ -191,4 +192,47 @@ footer > h1 {
   font-size: 12px;
   font-weight: 400;
   margin-top: 20px;
+}
+
+/*Feedback*/
+.icons {
+  cursor: pointer;
+}
+
+.icons-container {
+  display: flex;
+  gap: 8px;
+  font-size: 20px;
+  margin-top: 16px;
+}
+
+.feedback {
+  display: flex;
+  justify-content: space-around;
+  height: 400px;
+  background-color: #fef6f8;
+  padding: 40px 0px 0px 0px;
+  margin-bottom: 100px;
+}
+
+.feedback-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.input-feedback {
+  height: 40px;
+  width: 420px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0px 18px;
+  font-size: 12px;
+}
+.input-message {
+  height: 150px;
+}
+
+.feedback-right > h1 {
+  margin-bottom: 20px;
+  text-align: center;
 }
