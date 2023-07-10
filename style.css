@@ -81,12 +81,13 @@ header {
 .featured-flowers > p {
   margin-bottom: 33px;
 }
+
 .featured-flower-image {
-  height: 250px;
+  height: 300px;
   width: 170px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(71, 125, 17, 0.15);
-  padding: 55px 60px 0px 60px;
+  padding: 55px 86px 0px 60px;
   margin-bottom: 10px;
 }
 
@@ -238,8 +239,8 @@ footer > h1 {
 
 /*optional*/
 .optional-img {
-  height: 55px;
-  width: 55px;
+  height: 62px;
+  width: 62px;
 }
 
 .optional-container {
@@ -251,7 +252,7 @@ footer > h1 {
   justify-content: center;
   height: 200px;
   align-items: center;
-  gap: 40px;
+  gap: 100px;
   text-align: center;
   margin-top: 80px;
 }
