@@ -132,3 +132,14 @@ header {
   height: 260px;
   width: 240px;
 }
+
+.instagram-section {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.insta-descrip {
+  width: 35%;
+  margin: auto;
+  margin-bottom: 35px;
+}
