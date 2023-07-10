@@ -3,3 +3,59 @@
   padding: 0;
   font-family: "Lato", sans-serif;
 }
+
+.btn-primary {
+  border-radius: 5px;
+  background: #e55473;
+  color: white;
+  padding: 5px 10px;
+  border: 0;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 400;
+  width: 125px;
+  height: 42px;
+}
+
+.description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/*Header*/
+header {
+  background-color: rgba(229, 84, 115, 0.1);
+}
+
+.header-part {
+  width: 80%;
+  margin: auto;
+  height: 100vh;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-flower-img {
+  width: 515px;
+  height: 610px;
+  margin-bottom: -3px;
+}
+
+.right-header {
+  margin-bottom: -32px;
+}
+.left-header {
+  width: 500px;
+}
+
+.header-title {
+  color: #272727;
+  font-size: 55px;
+  font-weight: 1000;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
