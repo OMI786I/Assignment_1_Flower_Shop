@@ -37,7 +37,7 @@ header {
 .header-part {
   width: 80%;
   margin: auto;
-  height: 700px;
+  height: 640px;
 
   display: flex;
   justify-content: space-around;
@@ -47,7 +47,6 @@ header {
 .header-flower-img {
   width: 515px;
   height: 610px;
-  margin-bottom: -3px;
 }
 
 .right-header {
