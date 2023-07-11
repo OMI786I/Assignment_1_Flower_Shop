@@ -230,6 +230,8 @@ footer > h1 {
 }
 .input-message {
   height: 150px;
+  padding: 20px;
+  resize: none;
 }
 
 .feedback-right > h1 {
